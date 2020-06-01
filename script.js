@@ -65,7 +65,7 @@ input.addEventListener('keyup', function(){
         for(var j=0; j<nume.length; j++)
         {
             var obj = {name: nume[j], code: j+1}
-            if(nume[j].toLowerCase().includes(value)) {
+            if(nume[j].toLowerCase().includes(value.toLowerCase())) {
                 clear(ulNameR, ulCodeR);
                 results.push(obj);
             } else {
