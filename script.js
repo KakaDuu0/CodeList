@@ -35,7 +35,7 @@ var nume = ["Apa Minerala 0.5L", "Apa Minerala 1.5L",           "Apa Minerala 2L
             "Crema Maini",       "Crema Pantofi",               "Crema Ras",              "Crema Gulas",        "Conserve Carne", 
             "Conserve Peste",    "Conserve Porumb",             "Conserve Fasole",        "Ciuperci",           "Acrituri Borcan", 
             "Intrerupator",      "Lanterne",                    "Lacate",                 "Ulei pentru Ungere", "Hartie Igienica", 
-            "Role Bucatarie",    "Conserve Carne pentru Caini", "Vopsea Ulei"]
+            "Role Bucatarie",    "Conserve Carne pt Caini", "Vopsea Ulei"]
 
 
 for(var i=1; i<=163; i++)
